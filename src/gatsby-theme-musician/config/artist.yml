@@ -1,6 +1,6 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
+  name: El Perfil
+  tagline: Tradiciones Milenarias
   # seo_title:
   # seo_description:
   # contact_twitter_username:
@@ -9,14 +9,12 @@ artist:
 
 social:
   - name: Facebook
-    url: https://facebook.com
+    url: https://www.facebook.com/ElPerfilSGO/?ref=bookmarks
   - name: Instagram
-    url: https://instagram.com
-  - name: Twitter
-    url: https://twitter.com
+    url: https://www.instagram.com/elperfiloficial/
   - name: Youtube
-    url: https://youtube.com
+    url: https://www.youtube.com/channel/UCG5RJmWFsUbjsNEG_8p1f5Q
   - name: Spotify
-    url: https://spotify.com
+    url: https://open.spotify.com/artist/06aNyu6LRacEalrWpQ4Iuw?si=HQDtaayfQCOR6CEpihuxIw
 
-site_language: en
+site_language: es

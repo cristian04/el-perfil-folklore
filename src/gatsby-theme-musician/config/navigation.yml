@@ -1,7 +1,7 @@
 navigation:
-  - text: Releases
-    url: "#releases"
+  - text: Albums
+    url: "#albums"
   - text: Shows
     url: "#shows"
-  - text: Contact
-    url: "#contact"
+  - text: Contacto
+    url: "#contacto"

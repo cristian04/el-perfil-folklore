@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Starter Site for Gatsby Theme Musician",
-    description: "",
-    siteUrl: "https://github.com/ekafyi/starter-musician-theme"
+    title: "El Perfil",
+    description: "Tradiciones Milenarias",
+    siteUrl: "https://www.el-perfil.com.ar"
   },
   plugins: [
     // Add gatsby-theme-musician to your site

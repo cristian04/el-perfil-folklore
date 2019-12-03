@@ -1,25 +1,7 @@
-- title: Sample Release 1
-  date: 2014-01-01
+- title: Tradiciones Milenarias
+  date: 2018-08-01
   release_type: Album
-  image: "./images/placeholder.jpg"
-  links:
-    - name: Discogs
-      url: https://discogs.com
-
-- title: Sample Release 2
-  date: 2018-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
-  links:
-    - name: Bandcamp
-      url: https://bandcamp.com
-
-- title: Sample Release 3
-  date: 2019-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
+  image: "./images/album.png"
   links:
     - name: Spotify
-      url: https://open.spotify.com
-    - name: Apple Music
-      url: https://music.apple.com
+      url: https://open.spotify.com/artist/06aNyu6LRacEalrWpQ4Iuw?si=HQDtaayfQCOR6CEpihuxIw
