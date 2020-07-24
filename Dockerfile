@@ -9,4 +9,4 @@ RUN yarn run build
 FROM nginx:1.17.8-alpine
 RUN rm -rf /usr/share/nginx/html
 COPY --from=front /app/public/ /usr/share/nginx/html
-COPY docker/vhost.conf /etc/nginx/conf.d/default.conf
+COPY default.conf /etc/nginx/conf.d/default.conf
