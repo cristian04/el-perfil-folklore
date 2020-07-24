@@ -1,11 +1,11 @@
 artist:
   name: El Perfil
   tagline: Tradiciones Milenarias
-  # seo_title:
-  # seo_description:
-  # contact_twitter_username:
-  # contact_phone: 
-  # contact_email: 
+  seo_title: El Perfil - Tradiciones Milenarias
+  seo_description: Banda de Folcklore de Santiago del Estero
+  # contact_twitter_username: 
+  contact_phone: elperfilmusicadesgo@gmail.com
+  contact_email: +5493516543797
 
 social:
   - name: Facebook

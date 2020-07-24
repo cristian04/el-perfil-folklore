@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: "El Perfil",
     description: "Tradiciones Milenarias",
-    siteUrl: "https://www.el-perfil.com.ar"
+    siteUrl: "https://elperfil.clvr.cloud"
   },
   plugins: [
     // Add gatsby-theme-musician to your site

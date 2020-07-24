@@ -1,6 +1,6 @@
 navigation:
   - text: Albums
-    url: "#albums"
+    url: "#releases"
   - text: Shows
     url: "#shows"
   - text: Contacto
